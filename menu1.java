@@ -7,7 +7,7 @@ class menu extends JFrame implements ActionListener
   { setTitle ("menus_rectangle") ;
     setSize (300, 150) ;
      /* creation barre des menus */
-    barreMenus = new JMenuBar() ;
+    //barreMenus = new JMenuBar() ;
     setJMenuBar(barreMenus) ;
      /* creation menu Fichier et ses options */
     Dimensions = new JMenu ("Dimensions") ;
